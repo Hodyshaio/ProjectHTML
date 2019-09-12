@@ -1,0 +1,48 @@
+﻿body {
+    direction: rtl;
+    background-color: white;
+    width: 1400px;
+    margin: 0 auto;
+}
+#logo {
+    margin-right: 100px;
+    margin-left: 100px;
+}
+.navbar-nav {
+    font-size: 15pt;
+    float: left;
+    font-family: 'Guttman Hatzvi';
+}
+.nav {
+    float: right;
+}
+.navbar-default {
+    margin-top: 10pt;
+    background-color: #f9f5f5;
+}
+table {
+    margin-right:200px;
+    width: 70%;
+    height: 300px;
+    border: 5px solid #4117aa;
+    border-collapse: collapse;
+    font-size: 17px;
+    text-align: center;
+}
+th, td {
+    background-color: #ffffff;
+    border: 5px solid #4117aa;
+    text-align: center;
+    vertical-align: bottom;
+    text-align: center;
+    font-family: 'Guttman Hatzvi';
+    font-size: 15pt;
+    color: darkkhaki;
+}
+caption {
+    caption-side: top;
+    text-align: center;
+    font-family: 'Guttman Hatzvi';
+    font-size:25pt;
+    color: darkkhaki;
+}

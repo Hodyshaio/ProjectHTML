@@ -1,0 +1,13 @@
+C:\Users\Hodaya\Documents\HTML\פרויקט סיום\MAIN\MAIN\bin\MAIN.dll.config
+C:\Users\Hodaya\Documents\HTML\פרויקט סיום\MAIN\MAIN\bin\MAIN.dll
+C:\Users\Hodaya\Documents\HTML\פרויקט סיום\MAIN\MAIN\bin\MAIN.pdb
+C:\Users\Hodaya\Documents\HTML\פרויקט סיום\MAIN\MAIN\bin\MAIN.xml
+C:\Users\Hodaya\Documents\HTML\פרויקט סיום\MAIN\MAIN\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Hodaya\Documents\HTML\פרויקט סיום\MAIN\MAIN\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Hodaya\Documents\HTML\פרויקט סיום\MAIN\MAIN\obj\Debug\MAIN.vbprojResolveAssemblyReference.cache
+C:\Users\Hodaya\Documents\HTML\פרויקט סיום\MAIN\MAIN\obj\Debug\MAIN.Resources.resources
+C:\Users\Hodaya\Documents\HTML\פרויקט סיום\MAIN\MAIN\obj\Debug\MAIN.vbproj.GenerateResource.Cache
+C:\Users\Hodaya\Documents\HTML\פרויקט סיום\MAIN\MAIN\obj\Debug\MAIN.vbproj.CoreCompileInputs.cache
+C:\Users\Hodaya\Documents\HTML\פרויקט סיום\MAIN\MAIN\obj\Debug\MAIN.dll
+C:\Users\Hodaya\Documents\HTML\פרויקט סיום\MAIN\MAIN\obj\Debug\MAIN.xml
+C:\Users\Hodaya\Documents\HTML\פרויקט סיום\MAIN\MAIN\obj\Debug\MAIN.pdb

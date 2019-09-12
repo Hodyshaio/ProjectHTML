@@ -1,0 +1,52 @@
+﻿body {
+    direction: rtl;
+    background-color: white;
+    width: 1400px;
+    margin: 0 auto;
+}
+#logo {
+    margin-right: 100px;
+    margin-left: 100px;
+}
+.navbar-nav {
+    font-size: 15pt;
+    float: left;
+    font-family: 'Guttman Hatzvi';
+}
+.nav {
+    float: right;
+}
+.navbar-default {
+    margin-top: 10pt;
+    background-color: #f9f5f5;
+}
+p {
+    color:#0026ff;
+    font-family: 'Guttman Hatzvi';
+    font-size: 12pt;
+    text-align: center;
+}
+.row {
+    margin-top: 80px;
+    margin-right:5px;
+    /*float:right;*/
+}
+h1 {
+    color: #0026ff;
+    font-family: 'Guttman Hatzvi';
+    font-size: 25pt;
+    text-align: center;
+    padding-bottom:40px;
+}
+.imgs {
+    float: right;
+    /*margin-right:25px;*/ 
+}
+    .imgs:hover {
+        -webkit-transform: scale(1.5);
+        -webkit-transition: -webkit-transform 2s;
+    }
+.img-rounded{
+    width:450px;
+    height:300px;
+}

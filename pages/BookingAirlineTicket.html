@@ -1,0 +1,93 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <link href="bootstrap.css" rel="stylesheet" />
+    <link href="StyleBookingAirlineTicket.css" rel="stylesheet" />
+    <title></title>
+</head>
+<body>
+    <img src="../images/logo_elal.JPG" width="1400" height="150" id="logo" />
+    <nav class="navbar navbar-default">
+        <div class="container-fluid">
+
+            <ul class="nav navbar-nav">
+                <li style="float:left" class="active"><a href="BookingAirlineTicket.html">הזמנת כרטיס טיסה</a></li>
+                <li><a href="Times.html">לוח זמנים</a></li>
+                <li><a href="MenuMeal.html">תפריט ארוחות</a></li>
+                <li><a href="Favor.html">הטבות</a></li>
+                <li><a href="About.html">אודות</a></li>
+                <li><a href="Main.html">דף הבית</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <form autocomplete="off">
+        <fieldset name="custdetails">
+            <br />
+            תעודת זהות:
+            <br />
+            <input type="text" required placeholder="שדה חובה" name="id" class="in" />
+            <br />
+            שם מלא:
+            <br />
+            <input type="text" required placeholder="הקלד שם באנגלית" name="name" class="in" />
+            <br />
+            מספר נייד:
+            <br />
+            <input type="tel" name="tel" class="in" />
+            <br />
+            כתובת מייל:
+            <br />
+            <input type="email" name="email" class="in" />
+            <br />
+            המראה מ:
+            <br />
+            <input type="text" name="name" class="in" />
+            <br />
+            <label for="landing">נחיתה ב:</label>
+            <br />
+            <select id="country" name="country">
+                <option value="amsterdam">אמסטרדם</option>
+                <option value="rome">רומא</option>
+                <option value="berlin">ברלין</option>
+                <option value="prague">פראג</option>
+                <option value="moscow">מוסקווה</option>
+                <option value="india">הודו</option>
+                <option value="new_york">ניו יורק</option>
+                <option value="london">לונדון</option>
+            </select>
+            <br /><br />
+            תאריך יציאה:
+            <br />
+            <input type="date" required placeholder="שדה חובה" name="date" class="in" />
+            <br />
+            תאריך חזרה:
+            <br />
+            <input type="date" required placeholder="שדה חובה" name="date" class="in" />
+            <br />
+            מבוגר (24-64)
+            <br />
+            <input type="text" name="adult" class="in" />
+            <br />
+            צעיר (0-24)
+            <br />
+            <input type="text" name="young" class="in" />
+            <br />
+            
+            תוכן ההודעה:
+            <br />
+            <textarea name="text" rows="10" cols="50">
+            הקלידו באזור זה את תוכן ההודעה
+            </textarea>
+            <br /><br />
+            <input type="submit" value="הזמן" id="send" />
+            <input type="reset" value="איפוס" />
+            <br /><br />
+        </fieldset>
+    </form>
+    <img src="../images/8.jpg" id="long"/>
+    <br /><br />
+       
+</body>
+</html>

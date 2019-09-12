@@ -1,0 +1,55 @@
+﻿ body{
+    direction: rtl;
+    background-color: white;
+    width: 1400px;
+    margin: 0 auto;
+    }
+#logo {
+    margin-right: 100px;
+    margin-left:100px;
+     }
+.navbar-nav {
+    font-size: 15pt;
+    float: left;
+    font-family: 'Guttman Hatzvi';
+}
+.nav {
+    float: right;
+}
+.navbar-default {
+    margin-top: 10pt;
+    background-color:#f9f5f5;
+}
+h1 {
+    font-family: 'Guttman Hatzvi';
+    text-align: center;
+    font: bold 80px ariel;
+    color: #20095b;
+   }
+h1 small {
+        font-weight: normal;
+        line-height: 1;
+        color:#a8a03e;
+         }
+#word {
+        font-size: 22px;
+        margin-top: 20px;
+        text-align: justify;
+        font-family: 'Guttman Hatzvi';
+        color: darkkhaki;
+    }
+#down {
+    text-align: center;
+    margin-bottom: 30px;
+    background-color:darkkhaki;
+}
+/*#picture {
+    margin-top:0;
+}*/
+#footer {
+    text-align: center;
+    font-family: 'Guttman Hatzvi';
+    
+}
+
+
